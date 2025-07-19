@@ -1,0 +1,23 @@
+# Core scientific computing
+numpy>=1.20.0
+scipy>=1.7.0
+matplotlib>=3.3.0
+
+# Optional but recommended
+pandas>=1.3.0          # For data management
+h5py>=3.0.0           # For HDF5 file support
+pillow>=8.0.0         # For animation export
+
+# Gravitational wave analysis (optional)
+# gwpy>=2.1.0          # Uncomment if analyzing LIGO data
+# pycbc>=2.0.0         # Uncomment for matched filtering
+
+# Jupyter support (optional)
+# jupyter>=1.0.0
+# notebook>=6.4.0
+# ipywidgets>=7.6.0
+
+# Development tools (optional)
+# pytest>=6.0.0
+# black>=21.0
+# flake8>=3.9.0

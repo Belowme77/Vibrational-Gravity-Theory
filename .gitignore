@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# Data files
+*.npz
+*.npy
+*.csv
+*.h5
+*.hdf5
+
+# Plots and figures
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.avi
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+
+# Simulation outputs
+data/raw/
+data/temp/
+results/
+output/
+
+# Large files
+*.zip
+*.tar.gz
+*.tar
+
+# Personal notes
+notes/
+private/
+scratch/
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Keep important directories
+!data/.gitkeep
+!results/.gitkeep
+!docs/figures/.gitkeep
