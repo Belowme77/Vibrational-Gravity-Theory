@@ -71,18 +71,11 @@ Your clean thesis version will be at:
 
 This repository shows:
 - Solid theoretical foundation (March 2025 level)
-- Working simulations (but not advanced tools)
+- Working simulations
 - Clear experimental proposals (needing funding)
 - Professional documentation
 - Active development roadmap
 
-Perfect for Franklin Templeton review!
-
-## ⚠️ Keep Separate
-
-Your advanced work stays in:
-- Your main repository (full version)
-- The internal validation document (for selective sharing)
 
 ## Questions?
 
